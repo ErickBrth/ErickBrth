@@ -41,6 +41,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Erick/Erick/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/ErickBrth/ErickBrth/blob/main/snake.yml" alt="Snake animation" />
 
 ###
