@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">* I'm a Computer Scientist graduating at UFCG - Campina Grande and Computer technician at Instituto Federal da Paraíba. - Brazil.<br>* trying to unravel the mysteries behind the codes<br>* i like  music and play some riffs<br>* i do some sports in free time</p>
+<p align="left">* I'm a Computer Scientist graduating at UFCG - Campina Grande and Computer technician at Instituto Federal da Paraíba. - Brazil.<br>* Trying to unravel the mysteries behind the codes<br>* I like  music and play some riffs<br>* I do some sports in free time</p>
 
 ###
 
