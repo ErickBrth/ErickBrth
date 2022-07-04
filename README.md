@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Erick Araken <img height="60" src="https://github.com/ErickBrth/ErickBrth/blob/main/pikachu2.gif"/></h2>
+<h2 align="left">Hi 👋! My name is Erick Araken <img height="30" src="https://github.com/ErickBrth/ErickBrth/blob/main/pikachu2.gif"/></h2>
 
 ###
 
