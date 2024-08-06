@@ -6,7 +6,7 @@
 
 ###
 
-![ErickBrth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickBrth&show_icons=true&theme=radical)
+![ErickBrth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickBrth&show_icons=true&theme=radical)<br>
 ![ErickBrth's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBrth&layout=compact&theme=radical)
 
 ###
